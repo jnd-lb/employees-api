@@ -83,9 +83,6 @@
       "breed": "Devon Rex",
       "color": "Black",
       "image": "https://example.com/images/devon_rex_cat.jpg"
-    },
-    {
-      "name": "Chloe",
-      "breed": "Norwegian Forest Cat",
-      "color": "Brown tabby",
-      "image": "https://example.com
+    }
+  ]
+}
