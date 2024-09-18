@@ -1,0 +1,88 @@
+{
+  "cats": [
+    { 
+      "name": "Whiskers",
+      "breed": "Siamese",
+      "color": "Cream with brown points",
+      "image": "https://example.com/images/siamese_cat.jpg"
+    },
+    {
+      "name": "Luna",
+      "breed": "Maine Coon",
+      "color": "Gray tabby",
+      "image": "https://example.com/images/maine_coon_cat.jpg"
+    },
+    {
+      "name": "Simba",
+      "breed": "Persian",
+      "color": "White",
+      "image": "https://example.com/images/persian_cat.jpg"
+    },
+    {
+      "name": "Shadow",
+      "breed": "Russian Blue",
+      "color": "Blue-gray",
+      "image": "https://example.com/images/russian_blue_cat.jpg"
+    },
+    {
+      "name": "Milo",
+      "breed": "Bengal",
+      "color": "Brown spotted",
+      "image": "https://example.com/images/bengal_cat.jpg"
+    },
+    {
+      "name": "Nala",
+      "breed": "Abyssinian",
+      "color": "Ruddy ticked",
+      "image": "https://example.com/images/abyssinian_cat.jpg"
+    },
+    {
+      "name": "Oliver",
+      "breed": "Ragdoll",
+      "color": "Seal point bicolor",
+      "image": "https://example.com/images/ragdoll_cat.jpg"
+    },
+    {
+      "name": "Bella",
+      "breed": "Scottish Fold",
+      "color": "Gray",
+      "image": "https://example.com/images/scottish_fold_cat.jpg"
+    },
+    {
+      "name": "Leo",
+      "breed": "Sphynx",
+      "color": "Pinkish with black points",
+      "image": "https://example.com/images/sphynx_cat.jpg"
+    },
+    {
+      "name": "Toby",
+      "breed": "American Shorthair",
+      "color": "Silver tabby",
+      "image": "https://example.com/images/american_shorthair_cat.jpg"
+    },
+    {
+      "name": "Cleo",
+      "breed": "Birman",
+      "color": "Seal point",
+      "image": "https://example.com/images/birman_cat.jpg"
+    },
+    {
+      "name": "Charlie",
+      "breed": "British Shorthair",
+      "color": "Blue",
+      "image": "https://example.com/images/british_shorthair_cat.jpg"
+    },
+    {
+      "name": "Ginger",
+      "breed": "Oriental Shorthair",
+      "color": "Red tabby",
+      "image": "https://example.com/images/oriental_shorthair_cat.jpg"
+    },
+    {
+      "name": "Penny",
+      "breed": "Devon Rex",
+      "color": "Black",
+      "image": "https://example.com/images/devon_rex_cat.jpg"
+    }
+  ]
+}
